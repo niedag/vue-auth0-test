@@ -1,4 +1,4 @@
-# vue-auth0-test
+# Vue App to test Auth0 authorization
 
 ## Project setup
 ```
@@ -22,4 +22,4 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-$ Vue App to test Auth0 authorization
+
