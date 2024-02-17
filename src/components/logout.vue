@@ -19,4 +19,4 @@
     };
   </script>
 
-<!-- Uses logout() from $auth0 with this accessor -->
+    <!-- Uses logout() globally from $auth0 with this accessor -->
