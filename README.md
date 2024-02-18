@@ -25,3 +25,4 @@ yarn lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+Need to pre-install module yarn add @auth0/auth0-vue
